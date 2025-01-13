@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreRDLCSubReport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec7b072bf56b7e4c629dc73d1afbef1385a09dbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e713fa0effd4be98f9c374560bbdc8206745b032")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreRDLCSubReport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreRDLCSubReport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
